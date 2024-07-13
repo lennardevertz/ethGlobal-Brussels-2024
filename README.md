@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
   <a>
-    <img src="logo.png" width="350">
+    <img src="logo.PNG" width="350">
   </a>
   <h3 align="center">Social Blockscout</h3>
   <p align="center">
@@ -17,5 +17,5 @@ Supercharging Blockscout open-source explorer with social context
 
 ## Tech Stack
 
-- [Blockscout](https://uma.xyz/)
-- [IDriss](https://metamask.io/sdk/)
+- [Blockscout](https://www.blockscout.com/)
+- [IDriss](https://github.com/idriss-crypto/ts-library)
