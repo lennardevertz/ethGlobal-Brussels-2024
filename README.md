@@ -19,3 +19,14 @@ Supercharging Blockscout open-source explorer with social context
 
 - [Blockscout](https://www.blockscout.com/)
 - [IDriss](https://github.com/idriss-crypto/ts-library)
+
+
+## Run locally
+
+```bash
+cd frontend
+yarn
+yarn dev:preset base
+```
+Instead of base, any of the other config options can be chosen.
+Visit `http://localhost:3000/address/0xcCE9A28b570946123f392Cf1DbfA6D2D5e636a1f` to view the example.
