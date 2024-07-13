@@ -1,1 +1,1 @@
-# ethGlobal-Brussels-2024
+# Social Blockscout
