@@ -11,8 +11,8 @@ Supercharging Blockscout open-source explorer with social context
 
 ## Benefits
 
-- You instantly recognize your identity, distinguish it from other data in the explorer's interface and boost your confidence in using the right address.
-- Interacting with @username instead of a regular address gives you more context about the other party and a way to message them.
+- You instantly recognize your identity, distinguish it from other data in the explorer's interface, and boost your confidence in using the right address.
+- Interacting with @username instead of a regular address gives you more context about other wallets and a way to message the owner.
 - Helps with verifying whether a given address is a real human.
 
 ## Tech Stack
